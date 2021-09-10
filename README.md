@@ -17,27 +17,27 @@ A collection of projects to demonstrate my skill in Python, knowledge of data sc
 * [**Python OOP**](#python-oop): Projects showcasing knowledge of Python as an object oriented programming language.
   * [Project 1](#)
   * [Project 2](#)
-* [Web Scraping](#web-scraping): A web scraping example in Python using `requests` and `BeautifulSoup` and some initial processing and storing in CSV file using `Pandas`.
-* [SQL](#sql): Examples of executing MySQL queries in different scenarios.
-* [RegEx](#regex): Regular Expressions demostrating how simple text processing can be simplified using the Python `regex` engine.
-* [Data Analytics](#data-analytics): Projects showcasing knowledge of analytics in answering real-world business questions from given data.
+* [**Web Scraping**](#web-scraping): A web scraping example in Python using `requests` and `BeautifulSoup` and some initial processing and storing in CSV file using `Pandas`.
+* [**SQL**](#sql): Examples of executing MySQL queries in different scenarios.
+* [**RegEx**](#regex): Regular Expressions demostrating how simple text processing can be simplified using the Python `regex` engine.
+* [**Data Analytics**](#data-analytics): Projects showcasing knowledge of analytics in answering real-world business questions from given data.
   * [Sale Analytics](#sales-analytics)
   * [Project 2](#)
-* [Machine Learning](#machine-learning): Projects in machine learning using Python `Scikit-Learn` and deploying them using `Flask` to `Heroku` server.
+* [**Machine Learning**](#machine-learning): Projects in machine learning using Python `Scikit-Learn` and deploying them using `Flask` to `Heroku` server.
   * [Car Price Prediction](#car-price-prediction)
   * [Project 2](#)
-* [Computer Vision](#computer-vision): Projects in computer vision using CNNs implemented in `Keras` and `TensorFlow`.
+* [**Computer Vision**](#computer-vision): Projects in computer vision using CNNs implemented in `Keras` and `TensorFlow`.
   * [Classification](#segmentation)
   * [Segmentation](#segmentation)
   * [Project 3](#)
-* [NLP](#nlp): Projects in Natural Language Processing  implemented `Keras` and `TensorFlow`.
+* [**NLP**](#nlp): Projects in Natural Language Processing  implemented `Keras` and `TensorFlow`.
   * [Sentiment Analysis of Amazon Book Reviews](#sentiment-amazon-review)
   * [Project 2](#)
 
 ## In Proges...
 
 * Some of the folders are still being imported from some of my other repos.
-* 
+* New and ongoing projects including projects on Django, data visualization, and NLP stuff.
 
 ### Built With
 
